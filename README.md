@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there 👋, I'm Malin Persson
+
+**Fullstack webdeveloper in the making**
+
+| CI/CD    | ![Github](https://img.icons8.com/?size=50&id=12599&format=png&color=000000)     |
+| -------- | -------- |
+| Backend  | ![PHP](https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000)      | 
+| Frontend | Data     | 
+| Database | Data     | 
 
 <!--
 **Malinsson/Malinsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
