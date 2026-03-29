@@ -1,13 +1,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20there,%20I'm%20Malin%20Persson&fontSize=50&animation=fadeIn)
 
-**Fullstack webdeveloper in the making**
+**Fullstack webdeveloper in the making**  
+
 
 I'm **Malin Persson** a web developer student at Yrgo that's aiming for fullstack. I enjoy creating small and large scale apps and websites, thriving in collaborative environments. Always eager to learn and take on new challenges, a developer is never done learning! I aim to move into the IT field at the end of my studies.
 
 Currently looking for LIA from 23-11-2026 to 28-05-2027. Don't hesistate to contact me!
 
-[![Malinsson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinsson)](github-readme-stats-k4agr4guy-malins-projects-b4ff5f84.vercel.app)
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Malinsson&theme=radical&hide_border=true&card_width=850)](https://git.io/streak-stats)  
 
 ## Tech stack
 
