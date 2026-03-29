@@ -1,24 +1,36 @@
-## Hello there 👋, I'm Malin Persson
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20there,%20I'm%20Malin%20Persson&fontSize=50&animation=fadeIn)
 
 **Fullstack webdeveloper in the making**
 
-| CI/CD    | ![Github](https://img.icons8.com/?size=50&id=12599&format=png&color=000000)     |
+I'm **Malin Persson** a web developer student at Yrgo that's aiming for fullstack. I enjoy creating small and large scale apps and websites, thriving in collaborative environments. Always eager to learn and take on new challenges, a developer is never done learning! I aim to move into the IT field at the end of my studies.
+
+Currently looking for LIA from 23-11-2026 to 28-05-2027. Don't hesistate to contact me!
+
+[![Malinsson's GitHub stats](https://github-readme-stats.vercel.app/api?username=malinsson)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tech stack
+
+|     |  |
 | -------- | -------- |
-| Backend  | ![PHP](https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000)      | 
-| Frontend | Data     | 
-| Database | Data     | 
+| Backend  | [![Backend](https://skillicons.dev/icons?i=laravel,express,nodejs,npm,php,dotnet&perline=4)](https://skillicons.dev)    | 
+| Frontend | [![Frontend](https://skillicons.dev/icons?i=react,css,tailwind,js,html,threejs&perline=4)](https://skillicons.dev)     | 
+| Database | [![Database](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,supabase&perline=4)](https://skillicons.dev)     | 
+| Software | [![Software](https://skillicons.dev/icons?i=rider,figma,vscode,wordpress,github&perline=4)](https://skillicons.dev)     | 
 
-<!--
-**Malinsson/Malinsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently learning
 
-Here are some ideas to get you started:
+|     |  |
+| -------- | -------- |
+| Backend  | [![Backend](https://skillicons.dev/icons?i=nextjs,ts,&perline=4)](https://skillicons.dev)    | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project
+
+🖥️ https://github.com/Malinsson/Have-a-beer-with-me  
+
+## Socials
+
+🖇️ Linked In : https://www.linkedin.com/in/malin-persson-085374384/  
+💼 Portfolio page: https://malin-persson-portfolio.vercel.app/  
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300section=footer&rotate=180)
