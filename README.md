@@ -7,7 +7,7 @@ I'm **Malin Persson** a web developer student at Yrgo that's aiming for fullstac
 
 Currently looking for LIA from 23-11-2026 to 28-05-2027. Don't hesistate to contact me!
 
-[![Malinsson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinsson)](https://github.com/anuraghazra/github-readme-stats)
+[![Malinsson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinsson)](github-readme-stats-k4agr4guy-malins-projects-b4ff5f84.vercel.app)
 
 ## Tech stack
 
