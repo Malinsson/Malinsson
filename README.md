@@ -10,7 +10,7 @@ Currently looking for LIA from 23-11-2026 to 28-05-2027. Don't hesistate to cont
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Malinsson&theme=radical&hide_border=true&card_width=850)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Malinsson&mode=weekly&theme=radical&hide_border=true&card_width=850)](https://git.io/streak-stats)  
 
 ## Tech stack
 
@@ -29,7 +29,7 @@ Currently looking for LIA from 23-11-2026 to 28-05-2027. Don't hesistate to cont
 
 ## Current project
 
-🖥️ https://github.com/Malinsson/Have-a-beer-with-me  
+🖥️ https://github.com/Malinsson/Gravity-sandbox.gits
 
 ## Socials
 
