@@ -29,7 +29,7 @@ Currently looking for LIA from 23-11-2026 to 28-05-2027. Don't hesistate to cont
 
 ## Current project
 
-🖥️ https://github.com/Malinsson/Gravity-sandbox.gits
+🖥️ [ https://github.com/Malinsson/Gravity-sandbox.gits](https://github.com/Malinsson/physics-sandbox)
 
 ## Socials
 
