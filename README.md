@@ -37,4 +37,4 @@ Currently looking for LIA from 23-11-2026 to 28-05-2027. Don't hesistate to cont
 🖇️ Linked In : https://www.linkedin.com/in/malin-persson-085374384/  
 💼 Portfolio page: https://malin-persson-portfolio.vercel.app/  
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300section=footer&rotate=180)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
